@@ -1,9 +1,6 @@
 # Active Directory Toolkit
 
-A collection of PowerShell scripts for managing, validating, and troubleshooting Active Directory environments.
-This toolkit is useful for sysadmins performing domain controller promotions, pre/post validations, port checks, 
-registry configuration, and AD site exports.
-
+This is a collection of scripts I've written over the years when I was primarily doing Active Directory work (circa 2015). I gathered these up and ran them through AI to clean up. The basic sytax is there and they look the part but know that I haven't tested these version of these scripts. They're likley out-of-date in more than one way but I'm trying to put everything I can on github at this point.
 ---
 
 ## 📁 Contents
